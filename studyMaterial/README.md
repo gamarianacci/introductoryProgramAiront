@@ -8,3 +8,6 @@ GIT BIBLIOGRAHPY:
 * https://www.flagship.io/git-branching-strategies/
 * https://www.atlassian.com/git/tutorials/comparing-workflows/gitflow-workflow
 * https://www.gitkraken.com/learn/git/best-practices/git-branch-strategy
+* https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
+* https://www.simplilearn.com/what-is-git-rebase-command-article#how_to_git_rebase
+* https://www.git-tower.com/learn/git/faq/git-squash
