@@ -11,3 +11,13 @@ GIT BIBLIOGRAHPY:
 * https://www.atlassian.com/git/tutorials/rewriting-history/git-rebase
 * https://www.simplilearn.com/what-is-git-rebase-command-article#how_to_git_rebase
 * https://www.git-tower.com/learn/git/faq/git-squash
+
+
+JAVASCRIPT BIBLIOGRAHPY:
+
+* https://dev.to/dillionmegida/syntax-and-basic-constructs-65
+* https://developer.mozilla.org/en-US/docs/Web/JavaScript
+* https://www.w3schools.com/js/js_intro.asp
+* https://dotnettutorials.net/lesson/javascript-operators/
+* https://igorgonchar.medium.com/javascript-array-methods-cheatsheet-55016e405d14
+* https://www.geeksforgeeks.org/javascript-basic-syntax/
