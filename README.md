@@ -1,6 +1,8 @@
 # introductoryProgramAiront
 
-HANDBOOK LINK: https://docs.google.com/document/d/1PLjMg6Wa1K_TDubvk7CQAM3udWb6YJoioqPN6ac_OEw/edit
+HANDBOOK LINK: 
+
+* https://docs.google.com/document/d/1PLjMg6Wa1K_TDubvk7CQAM3udWb6YJoioqPN6ac_OEw/edit
 
 GIT BIBLIOGRAHPY:
 
